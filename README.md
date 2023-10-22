@@ -14,6 +14,7 @@
 - **ESP8266**: This microcontroller is the heart of the project and manages the radio module, display, and WiFi connectivity.
 - **RDA5807 FM-AM Radio Module**: It receives and plays FM radio stations.
 - **SD1306 OLED Display**: This display provides station frequency.
+- **16X2 LCD Display**: Can be used to as a display (but driver code is not included in this project)
 
 ## Features
 
