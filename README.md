@@ -3,7 +3,7 @@
 - This project combines an ESP8266, an RDA5807 FM-AM radio module, an Audio Amplifier module  and an SD1306 OLED display to create an FM radio that can be controlled over a local WiFi network. 
 - It includes  HTTP endpoints for changing radio channels (but other features can be exposed to via the endpoints), making it suitable for integration with home automation systems.
 
-- **Note**: I didnt have images of the OLED-Display version of the project so I used images from an LCD-Display  version of the project
+**Note**: I didnt have images of the OLED-Display version of the project so I used images from an LCD-Display  version of the project
 ![Prototype Image](img/2.jpg)
 
 ## Hardware Components
